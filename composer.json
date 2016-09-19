@@ -1,0 +1,17 @@
+{
+    "name": "nasrulhazim/clean",
+    "description": "Clean up cache files",
+    "authors": [
+        {
+            "name": "Nasrul Hazim",
+            "email": "nasrulhazim.m@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "NasrulHazim\\Clean\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
